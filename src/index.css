@@ -1,0 +1,31 @@
+h1 {
+    text-align: center;
+}
+
+ul li button {
+    background-color: transparent;
+
+}
+
+ul li input {
+    margin: auto 30px !important;
+
+}
+
+ul {
+    list-style: none;
+}
+
+ul li {
+    display: flex;
+    justify-content: space-between;
+    border-style: solid;
+    border-width: 1px;
+    border-color: gray;
+    margin-bottom: 16px;
+    border-radius: 7px;
+}
+
+ul li span {
+    margin: auto;
+}
